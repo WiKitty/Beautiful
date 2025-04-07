@@ -95,6 +95,11 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 
+
+
+
+
+
 #JP
 
 
@@ -103,6 +108,15 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #KR
@@ -125,7 +139,15 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 
 
+
+
+
+
+
+
+
 #FR
+
 #EXTINF:-1 tvg-id="",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="",Banijay Mr Bean Classic
@@ -157,7 +179,14 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
+
+
+
+
+
 #CA
+
+
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca",CityNews Calgary (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="",CityNews Montreal (720p) [Not 24/7]
@@ -193,7 +222,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="ZooMoo.sg",ZooMoo Asia (1080p)
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
+
+
+
+
+
+
+
+
+
 #HK
+
 #EXTINF:-1 tvg-id="RTHKTV33.hk",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV34.hk",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
