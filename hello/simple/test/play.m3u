@@ -109,14 +109,30 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 
 
 
+#US
+#us_xumo.m3u
+
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN Sports XTRA
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us",BeIN Sports XTRA en Espanol
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.us",FOX Sports [Geo-blocked]
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Motorvision.de",Motorvision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 
+#EXTINF:-1 tvg-id="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-id="",UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 
 
 
