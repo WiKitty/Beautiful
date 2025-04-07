@@ -31,6 +31,43 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#US
+#us_thetvapp.m3u
+
+#EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
+https://v1.thetvapp.to/hls/FoxSports1/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2
+https://v1.thetvapp.to/hls/FoxSports2/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us",Golf Channel
+https://v1.thetvapp.to/hls/GolfChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us",NBA TV
+https://v1.thetvapp.to/hls/NBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us",NBC Sports Bay Area
+https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBoston.us",NBC Sports Boston
+https://v1.thetvapp.to/hls/nbc-sports-boston/index.m3u8
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us",NBC Sports Philadelphia
+https://v1.thetvapp.to/hls/nbc-sports-philadelphia/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLRedZone.us",NFL RedZone
+https://v1.thetvapp.to/hls/NFLRedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca",TSN1
+https://v1.thetvapp.to/hls/tsn1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca",TSN2
+https://v1.thetvapp.to/hls/tsn2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca",TSN3
+https://v1.thetvapp.to/hls/tsn3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca",TSN4
+https://v1.thetvapp.to/hls/tsn4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca",TSN5
+https://v1.thetvapp.to/hls/tsn5/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkEast.us",USA Network East
+https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8
 
 
 
@@ -38,18 +75,37 @@ https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#US
+#us_tubi.m3u
 
 
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us",BeIN SPORTS XTRA (720p)
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us",BeIN SPORTS XTRA En Espanol (720p)
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.us",Fox Sports (720p)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us",Fox Sports en Espanol (720p)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us",Fubo Sports Network (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 
 
+#EXTINF:-1 tvg-id="MLB.us",MLB (720p) [Not 24/7]
+https://livetv-fa.tubi.video/mlb3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NBATV.us",NBA (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/c987b155-8d7e-4307-bd24-720bb2843d42/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NFLChannel.us",NFL (720p)
+https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us",NHL (1080p)
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="",UFC (1080p)
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 
 
